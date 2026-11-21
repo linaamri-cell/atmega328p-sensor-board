@@ -1,5 +1,9 @@
 # atmega328p-sensor-board
 
+
+
+<img src="https://github.com/user-attachments/assets/8a36954f-4d86-426d-bf93-6aeb478d9bd4" alt="Assembled ATmega328P board, top view" width="400">
+
 2-layer board based on the ATmega328P, designed in KiCad. Runs at 3.3 V with an 8 MHz crystal.
 
 ## Specs
