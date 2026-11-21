@@ -1,4 +1,4 @@
-# my-first-PCB
+# atmega328p-sensor-board
 
 2-layer board based on the ATmega328P, designed in KiCad. Runs at 3.3 V with an 8 MHz crystal.
 
